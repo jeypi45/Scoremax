@@ -1,4 +1,4 @@
-import { ToastContainer, toast } from "react-toastify";
+cimport { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Draggable from "react-draggable";
 import Swal from "sweetalert2";
