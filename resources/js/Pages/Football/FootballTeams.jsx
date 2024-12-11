@@ -340,6 +340,7 @@ const FootballTeams = ({
 
         doc.save("FootballTeams.pdf");
     };
+    
 
     const handlePrintMatchScoresPDF = () => {
         const doc = new jsPDF();
